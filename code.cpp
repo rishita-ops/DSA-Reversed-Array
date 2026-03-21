@@ -1,3 +1,6 @@
+/*
+    all the things out of league
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
